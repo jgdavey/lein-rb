@@ -1,6 +1,8 @@
 # lein-rb
 
-A Leiningen plugin that facilitates integration with bundler.
+A Leiningen plugin that facilitates integration with bundler. Heavily
+inspired by [lein-ruby](https://github.com/mental/lein-ruby), but
+cleaned up and updated for Leiningen 2.
 
 By default, gems are installed to `vendor/gems`, but this can be configured.
 
